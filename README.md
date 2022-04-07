@@ -1,8 +1,24 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# :rocket:Next Js & Chakra UI & typescript✨
 
-## Getting Started
+## _:star:This project is inspired by the complete Chakra UI official tutorial:star:_
 
-First, run the development server:
+## Before Getting Started :exclamation:
+
+This is a complete code base created by me to easily refresh our memory in using Chakra UI :gift_heart: with Next JS :sparkler: and how we can easly Override the built-in Component's Styles and Variants :full_moon_with_face:
+
+- Chakra UI is a simple, modular and accessible component library that gives you the building blocks
+- Next.js is an open-source web development framework built on top of React
+- ✨The Magic of Css in Js ✨
+
+## Getting Started :wink:
+
+First, run the install command to install the package.json file:
+
+```bash
+npm install
+```
+
+Then run the development server with the following commands:
 
 ```bash
 npm run dev
@@ -12,11 +28,17 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+## A quick overview of the project :dizzy: :heart:
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+![Web dark theme](dark.png) ![Web light theme](light.png)
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+### and a mobile responsive version like so :two_hearts: :
+
+![Mobile dark and light theme](mobile.png)
+
+## Can you use this code :question:
+
+Please, feel free to use this project with your own interrest and don't forget to give me a star :heart_eyes: :star:.
 
 ## Learn More
 
