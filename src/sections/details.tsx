@@ -35,7 +35,7 @@ const Details: NextPage = () => {
             <Input placeholder="Doe" />
           </FormControl>
         </GridItem>
-        <GridItem colSpan={colSpan}>
+        <GridItem colSpan={2}>
           <FormControl>
             <FormLabel>Address</FormLabel>
             <Input placeholder="46 Michel Bizot" />
@@ -60,11 +60,11 @@ const Details: NextPage = () => {
             </Select>
           </FormControl>
         </GridItem>
-        <GridItem colSpan={colSpan}>
+        <GridItem colSpan={2}>
           <Checkbox defaultChecked>Ship to billing address.</Checkbox>
         </GridItem>
-        <GridItem colSpan={colSpan}>
-          <Button size="lg" w="full">
+        <GridItem colSpan={2}>
+          <Button colorScheme="brand" size="lg" w="full">
             Place Order
           </Button>
         </GridItem>
